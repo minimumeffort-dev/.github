@@ -18,6 +18,12 @@ The sample app I’m building with the harness. It runs locally with FastAPI and
 
 [Browse the code](https://github.com/minimumeffort-dev/todo) · [Commits](https://github.com/minimumeffort-dev/todo/commits/main/) · [Pull requests](https://github.com/minimumeffort-dev/todo/pulls)
 
+### [LeetCode](https://github.com/minimumeffort-dev/leetcode)
+
+I'm working through LeetCode in Python and implementing the data structures behind the problems. The repo keeps alternate solutions and short notes explaining each file.
+
+[Browse the code](https://github.com/minimumeffort-dev/leetcode) · [Commits](https://github.com/minimumeffort-dev/leetcode/commits/main/)
+
 ## Follow along
 
 I write about the decisions, tests and tradeoffs on [minimumeffort.dev](https://minimumeffort.dev/blog). Start with [why I’m building the harness](https://minimumeffort.dev/blog/building-sprowt-harness), or read [the build notes](https://minimumeffort.dev/blog).
