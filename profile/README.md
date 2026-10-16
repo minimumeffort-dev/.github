@@ -2,7 +2,7 @@
 
 I’m Horia Jurcut. Minimum Effort is where I build software and write about what I’m learning, with a focus on coding agents, machine learning and developer tools.
 
-Right now I’m building a local coding harness and using a small todo app as its sample project. Both are in development, and you can follow the work here as it lands.
+I’m building a local coding harness, using a todo app as its sample project, and experimenting with paper-authored playable worlds. You can follow the work here as it lands.
 
 ## The projects
 
@@ -17,6 +17,14 @@ A local harness for planning, running and reviewing changes with Codex and Muse.
 The sample app I’m building with the harness. It runs locally with FastAPI and DuckDB, with task editing, completion and semantic search using EmbeddingGemma in the browser. Its commits and pull requests show the app developing alongside the harness.
 
 [Browse the code](https://github.com/minimumeffort-dev/todo) · [Commits](https://github.com/minimumeffort-dev/todo/commits/main/) · [Pull requests](https://github.com/minimumeffort-dev/todo/pulls)
+
+### [Muse Dream](https://github.com/minimumeffort-dev/muse.dream)
+
+I want to sketch a world on paper and then explore it. Muse Dream starts with a playable 3D mock and Dream 2, a text language for composing the world’s objects, terrain and behavior. Paper capture and model interpretation are still to come.
+
+[Play the prototype](https://musedream.vercel.app/) · [Browse the code](https://github.com/minimumeffort-dev/muse.dream) · [Dream 2 docs](https://github.com/minimumeffort-dev/muse.dream/tree/main/docs)
+
+[![The Muse Dream mock world](https://raw.githubusercontent.com/minimumeffort-dev/muse.dream/main/docs/media/world.jpg)](https://musedream.vercel.app/)
 
 ### [LeetCode](https://github.com/minimumeffort-dev/leetcode)
 
